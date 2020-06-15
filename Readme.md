@@ -6,6 +6,3 @@
 
 ## 2주차 과제 (2020.06.15)
 *[ 파이썬과 인공지능 기초수학 ](https://github.com/Gold-Minji/kmj/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb)
-
-## 3주차 과제 (2020.06.15)
-*[학습률 최적화, 군집 분석 구현, Cost Funtion 구현] ()
